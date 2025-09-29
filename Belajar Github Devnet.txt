@@ -1,3 +1,6 @@
 tahapan belajar github
 belajar repo
 belajar git 
+belajar config 
+belajar tools
+belajar wjk
